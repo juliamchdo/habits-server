@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Prisma generated files
+prisma/generated/
+@prisma/
+
+# Logs
+*.log
+prisma/.tmp/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
